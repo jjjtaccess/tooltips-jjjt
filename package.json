@@ -1,0 +1,22 @@
+{
+  "name": "tooltips-jjjt",
+  "version": "1.0.0",
+  "description": "tooltips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjjtaccess/tooltips-jjjt.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Jefferson Jimenez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjjtaccess/tooltips-jjjt/issues"
+  },
+  "homepage": "https://github.com/jjjtaccess/tooltips-jjjt#readme"
+}
